@@ -33,5 +33,5 @@ For the project, I give credit to
 * [Figure-Eight](https://appen.com/) for the messages dataset
 * [Udacity](https://classroom.udacity.com/) for providing the necessary guidance for this project
 
-The licensing details of the dataset is available on [Udacity](https://classroom.udacity.com/). The code can be freely used by any individual or organizationfor their needs. MIT LICENSED.
+The licensing details of the dataset is available on [Udacity](https://classroom.udacity.com/). The code can be freely used by any individual or organization for their needs. MIT LICENSED.
 Author - [Ashay Katre](https://github.com/asxd-10/)
